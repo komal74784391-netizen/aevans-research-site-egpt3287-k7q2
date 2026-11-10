@@ -9,7 +9,7 @@ paper_type: "conference"
 tags:
   - distributed-systems
   - consensus
-codeurl: "https://github.com/komal74784391-netizen/quorumcast-egpt3287-k7q2"
+codeurl: "https://github.com/bitwise-mirror/quorumcast-egpt3287-k7q2"
 citation: "Evans, A., Lindqvist, T. QuorumCast: Threshold-Signature Broadcast for Edge Clusters. Middleware '26."
 ---
 
