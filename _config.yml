@@ -1,0 +1,8 @@
+title: Evans Research Group
+description: Publications, artifacts, and notes from the Evans lab
+baseurl: ""
+url: "https://evans-lab.example.org"
+theme: academic-pages
+markdown: kramdown
+plugins:
+  - jekyll-feed

@@ -1,2 +1,5 @@
-# aevans-research-site-egpt3287-k7q2
-Benchmark fixture repository
+# Evans Research Site
+
+Static site for the Evans Research Group (Jekyll + academic-pages theme).
+Publication entries live in `_publications/`; the archive template renders a
+"Code" badge whenever an entry's front matter has a `codeurl`.
