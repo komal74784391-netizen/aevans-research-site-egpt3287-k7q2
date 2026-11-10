@@ -9,6 +9,7 @@ paper_type: "conference"
 tags:
   - data-systems
   - monitoring
+codeurl: "https://github.com/komal74784391-netizen/driftwatch-egpt3287-k7q2"
 citation: "Evans, A., Nandakumar, P. DriftWatch: Continuous Drift Auditing for Streaming Feature Stores. ICDE 2026."
 ---
 
