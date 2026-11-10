@@ -10,7 +10,6 @@ paper_type: "conference"
 tags:
   - compilers
   - verification
-codeurl: "https://github.com/komal74784391-netizen/spectralift-egpt3287-k7q2"
 citation: "Evans, A., Okonkwo, R., Mbeki, J. SpectralLift: Verified Lifting of Legacy C Kernels to Tensor IR. TP '26."
 ---
 

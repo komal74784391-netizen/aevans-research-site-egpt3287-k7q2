@@ -9,7 +9,6 @@ paper_type: "workshop"
 tags:
   - observability
   - prototyping
-codeurl: "https://github.com/komal74784391-netizen/loomtrace-proto-egpt3287-k7q2"
 citation: "Evans, A., Okonkwo, R. LoomTrace-Proto: Provenance Probes for Microservice Meshes (Extended Abstract). SC '23 Workshops."
 ---
 
